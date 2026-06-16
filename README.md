@@ -1,274 +1,197 @@
-\#
+<div align="center">
 
-::: {align="center"}
-⚡ Amir Iqbal Khan ⚡
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9F7AEA&height=220&section=header&text=Amir%20Iqbal%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Product%20Engineer%20%E2%80%A2%20Creative%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-::: {align="center"}
-### Full Stack Developer • Product Engineer • Creative Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+immersive+web+experiences+%F0%9F%9A%80;Next.js+%2B+TypeScript+enthusiast;AI-powered+product+builder+%F0%9F%A4%96;Open+to+collabs+%26+freelance+work)](https://git.io/typing-svg)
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Amir%20Iqbal%20Khan&fontSize=40&fontColor=ffffff"/>`{=html}
+<br/>
 
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;AI+Product+Builder;Creative+Developer;Next.js+Enthusiast;Building+Immersive+Experiences&center=true&width=700&height=50)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmirIqbalKhan&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/AmirIqbalKhan)
+[![GitHub Followers](https://img.shields.io/github/followers/AmirIqbalKhan?style=flat-square&color=4F46E5&label=FOLLOWERS)](https://github.com/AmirIqbalKhan?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/AmirIqbalKhan?style=flat-square&color=9F7AEA&label=STARS)](https://github.com/AmirIqbalKhan)
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=AmirIqbalKhan&style=for-the-badge&color=7C3AED)
-![Followers](https://img.shields.io/github/followers/AmirIqbalKhan?style=for-the-badge&color=7C3AED)
-![Stars](https://img.shields.io/github/stars/AmirIqbalKhan?style=for-the-badge&color=7C3AED)
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-AmirIqbalKhan-111827?style=for-the-badge)](https://github.com/AmirIqbalKhan)
-:::
+---
 
-------------------------------------------------------------------------
+## 💫 About Me
 
-# 💫 About Me
+```yaml
+name:     Amir Iqbal Khan
+location: Pakistan 🇵🇰
+role:     Full Stack Developer
+focus:    Next.js ecosystems, AI integrations, Creative Dev
 
-Full Stack Developer focused on building scalable applications,
-immersive web experiences, and AI-powered products. Passionate about
-combining engineering excellence with exceptional user experiences.
+learning:
+  - System Design & Scalable Architectures
+  - Advanced TypeScript patterns
 
--   🇵🇰 Pakistan
--   💼 Current Role: Full Stack Developer
--   🧠 Interests: AI, Creative Development, Product Engineering
--   🚀 Specializing in Next.js ecosystems
--   🤝 Open to internships, freelance work, and collaborations
+building:
+  - Developer-focused products
+  - AI-augmented web experiences
+  - Immersive portfolio systems
 
-## Open To
+open_to:
+  - Software Engineering Roles
+  - Freelance & Contract Work
+  - Open Source Contributions
+  - Creative Collaborations
+```
 
--   Software Engineering Roles
--   Product Engineering Opportunities
--   Open Source Contributions
--   Freelance Projects
+---
 
-------------------------------------------------------------------------
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+**Languages**
 
-## Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-TypeScript • JavaScript • HTML • CSS
+**Frontend**
 
-## Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-Next.js • React • Tailwind CSS • Framer Motion
+**Backend & Databases**
 
-## Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Node.js • Express • PostgreSQL • MongoDB
+**Cloud, DevOps & Tooling**
 
-## Cloud, DevOps & Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Git • GitHub • Docker • Vercel
+---
 
-------------------------------------------------------------------------
+## 🤖 AI / ML Expertise
 
-# 🤖 AI / ML Expertise
+| Domain | Proficiency | Details |
+|---|---|---|
+| 🧠 Prompt Engineering | `████████████ Advanced` | Production prompt design, chain-of-thought, few-shot |
+| 🔌 AI Integrations | `█████████░░░ Intermediate` | OpenAI, Anthropic & other frontier model APIs |
+| 💬 Chatbot UX | `█████████░░░ Intermediate` | Conversational interfaces & streaming responses |
+| 🎯 Product Strategy | `████████░░░░ Intermediate` | AI-first product thinking end-to-end |
 
-  Domain               Proficiency    Details
-  -------------------- -------------- ----------------------------
-  Prompt Engineering   Advanced       Production prompt design
-  AI Integrations      Intermediate   API integrations
-  Chatbots             Intermediate   Conversational experiences
-  Product Strategy     Intermediate   AI-first product thinking
+---
 
-------------------------------------------------------------------------
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-```{=html}
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}404.OS Portfolio Experience`</b>`{=html}
-```{=html}
-</summary>
-```
-Immersive portfolio designed as a creative operating system.
+<summary><b>🖥️ 404.OS — Portfolio Experience</b></summary>
+<br/>
 
-  Category      Details
-  ------------- ------------------------
-  Stack         Next.js, Framer Motion
-  Scale         Personal Brand
-  Performance   Optimized
-  Security      Best Practices
-  Impact        Premium Showcase
-  Repository    Coming Soon
+> An immersive portfolio designed as a creative operating system. Built to push the limits of web UI — interactive windows, ambient atmosphere, and a personality that could only belong to this project.
 
-```{=html}
+| | |
+|---|---|
+| **Stack** | Next.js, Framer Motion, TypeScript |
+| **Type** | Personal Brand / Creative Dev |
+| **Status** | 🔨 In Progress |
+| **Repo** | Coming Soon |
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}FlowSite Generator`</b>`{=html}
-```{=html}
-</summary>
-```
-Scrollytelling experiences for modern portfolios.
+<summary><b>⚡ FlowSite Generator</b></summary>
+<br/>
 
-  Category      Details
-  ------------- ---------------------
-  Stack         Next.js, TypeScript
-  Scale         Growing
-  Performance   Optimized
-  Repository    Coming Soon
+> Scrollytelling experiences for modern portfolios. Smooth section transitions, parallax effects, and a generator that makes stunning sites effortless.
 
-```{=html}
+| | |
+|---|---|
+| **Stack** | Next.js, TypeScript |
+| **Type** | Developer Tool |
+| **Status** | 🌱 Growing |
+| **Repo** | Coming Soon |
+
 </details>
-```
-```{=html}
+
 <details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}AI Product Experiments`</b>`{=html}
-```{=html}
-</summary>
-```
-Exploring AI-powered workflows and developer products.
+<summary><b>🤖 AI Product Experiments</b></summary>
+<br/>
 
-  Category     Details
-  ------------ ------------------
-  Stack        JavaScript, APIs
-  Scale        Experimental
-  Repository   Private
+> Exploring AI-powered workflows and developer products. Prompt engineering in production, conversational UX patterns, and AI-first product thinking.
 
-```{=html}
+| | |
+|---|---|
+| **Stack** | JavaScript, AI APIs |
+| **Type** | Experimental |
+| **Status** | 🔬 Ongoing |
+| **Repo** | Private |
+
 </details>
-```
 
-------------------------------------------------------------------------
+---
 
-# 💼 Experience
+## 📊 GitHub Analytics
 
-## Full Stack Developer
+<div align="center">
 
-**Independent Projects** • Present
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmirIqbalKhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=4F46E5&text_color=C9D1D9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirIqbalKhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=C9D1D9"/>
 
--   Design and build modern web applications.
--   Develop immersive user experiences.
--   Integrate AI capabilities into products.
--   Optimize performance and maintainability.
+<img src="https://streak-stats.demolab.com/?user=AmirIqbalKhan&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=4F46E5&fire=9F7AEA&currStreakLabel=7C3AED"/>
 
-**Skills:** Next.js • React • TypeScript • Node.js
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 🏆 Achievements
+## 🏆 GitHub Trophies
 
-  Recognition            Details
-  ---------------------- --------------------------------
-  Creative Development   Building immersive experiences
-  Product Engineering    Shipping end-to-end products
-  Continuous Learning    Exploring modern technologies
+<div align="center">
 
-------------------------------------------------------------------------
+![Trophies](https://github-profile-trophy.vercel.app/?username=AmirIqbalKhan&theme=tokyonight&no-frame=true&margin-w=12&column=6)
 
-# 📜 Certifications
+</div>
 
-## AWS
+---
 
-Placeholder
+## 📈 Contribution Activity
 
-## Oracle
+<div align="center">
 
-Placeholder
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirIqbalKhan&theme=tokyo-night&hide_border=true&bg_color=0D0D1A&color=7C3AED&line=4F46E5&point=9F7AEA)
 
-## Cisco
+</div>
 
-Placeholder
+---
 
-## NPTEL
+## 🐍 Contribution Snake
 
-Placeholder
-
-------------------------------------------------------------------------
-
-# 💻 Coding Profiles
-
--   GitHub: https://github.com/AmirIqbalKhan
--   LeetCode: Add Username
--   HackerRank: Add Username
--   GeeksforGeeks: Add Username
--   CodeChef: Add Username
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AmirIqbalKhan&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirIqbalKhan&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=AmirIqbalKhan&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-# 🏅 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmirIqbalKhan&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-# 📈 Contribution Activity
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirIqbalKhan&theme=tokyo-night)
-
-------------------------------------------------------------------------
-
-# 🐍 Contribution Snake
+<div align="center">
 
 ![Snake](https://raw.githubusercontent.com/AmirIqbalKhan/AmirIqbalKhan/output/github-contribution-grid-snake-dark.svg)
 
-------------------------------------------------------------------------
+</div>
 
-# 🎯 Current Focus
+---
 
-``` yaml
-Learning:
-  - System Design
-  - Scalable Architectures
-  - Advanced TypeScript
+## 🤝 Connect With Me
 
-Building:
-  - Developer Products
-  - AI Experiences
-  - Immersive Portfolios
+<div align="center">
 
-Exploring:
-  - Creative Development
-  - Product Engineering
+[![GitHub](https://img.shields.io/badge/GitHub-AmirIqbalKhan-181717?style=for-the-badge&logo=github)](https://github.com/AmirIqbalKhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ADD-YOUR-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
-OpenTo:
-  - Collaborations
-  - Freelance Work
-  - Software Engineering Opportunities
-```
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 🤝 Connect
+<div align="center">
 
--   GitHub: https://github.com/AmirIqbalKhan
--   LinkedIn: Add URL
--   Portfolio: Add URL
--   Email: Add Email
+> *"Building products that blend engineering excellence with immersive experiences."*
 
-------------------------------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F7AEA,50:7C3AED,100:4F46E5&height=120&section=footer"/>
 
-::: {align="center"}
-> "Building products that blend engineering excellence with immersive
-> experiences."
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>`{=html}
-:::
+</div>
