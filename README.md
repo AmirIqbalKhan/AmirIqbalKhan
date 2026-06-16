@@ -142,34 +142,12 @@ open_to:
 <img src="https://streak-stats.demolab.com/?user=AmirIqbalKhan&theme=tokyonight&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=4F46E5&fire=9F7AEA&currStreakLabel=7C3AED"/>
 
 </div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AmirIqbalKhan&theme=tokyonight&no-frame=true&margin-w=12&column=6)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmirIqbalKhan&theme=tokyo-night&hide_border=true&bg_color=0D0D1A&color=7C3AED&line=4F46E5&point=9F7AEA)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/AmirIqbalKhan/AmirIqbalKhan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
