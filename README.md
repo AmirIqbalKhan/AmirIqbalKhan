@@ -158,7 +158,7 @@ open_to:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AmirIqbalKhan-181717?style=for-the-badge&logo=github)](https://github.com/AmirIqbalKhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ADD-YOUR-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aamir404tech/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-7C3AED?style=for-the-badge&logo=vercel)](https://your-portfolio.dev)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
